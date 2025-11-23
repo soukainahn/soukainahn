@@ -15,7 +15,9 @@
 Final-year **Cybersecurity Engineering** student passionate about **pentesting, reverse engineering, CTFs**, and cloud security.  
 I love solving complex challenges, breaking things ethically, and helping grow the cybersecurity community.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soukainahn/soukainahn/main/dist/snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ## 🛠 Skills
 
