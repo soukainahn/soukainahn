@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="soukainahn/hhh.jpg width="800"/>
-</p>
+  <img src="soukainahn/hhh.jpg" width="800"/></p>
 
 <h1 align="center">Hi, I'm Soukaina 👋</h1>
 
