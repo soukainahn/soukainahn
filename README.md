@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/soukainahn/soukainahn/main/dist/snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Soukaina 👋</h1>
 
