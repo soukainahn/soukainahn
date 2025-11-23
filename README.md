@@ -8,7 +8,7 @@
     src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineering+Student;Pentester+%7C+Ethical+Hacker;CTF+Player+%7C+Reverse+Engineer;Always+Learning+%7C+Always+Hacking"
   />
 </p>
-## 🐍 Contribution Snak
+🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/soukainahn/soukainahn/main/dist/snake.svg" alt="GitHub Contribution Snake"/>
 </p>
