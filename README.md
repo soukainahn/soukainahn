@@ -1,15 +1,17 @@
+
 # Hi, I’m Soukaina 👋
 **Cybersecurity Engineering Student | Pentester | CTF Player**
 
-I am a final-year Cybersecurity Engineering student passionate about **penetration testing, ethical hacking, and CTF competitions**. I enjoy exploring vulnerabilities, securing systems, and solving complex security challenges.
+I am a final-year Cybersecurity Engineering student passionate about **ethical hacking, penetration testing, and Capture The Flag (CTF) competitions**. I enjoy exploring vulnerabilities, securing systems, and solving complex security challenges.
 
 ---
 
 ## 🛠 Skills
 
 ### 🔐 Cybersecurity & Pentesting
-- Network scanning, vulnerability assessment, exploitation    
-- Web, network, and binary exploitation  
+- Web penetration testing, Active Directory pentesting, network security, cloud security, AWS pentesting  
+- Ethical hacking, OWASP top 10, system hardening, best practices, NIST frameworks  
+- Reverse engineering, CTF challenges, binary exploitation  
 
 ### 💻 Programming & Scripting
 <p align="left">
@@ -26,24 +28,7 @@ I am a final-year Cybersecurity Engineering student passionate about **penetrati
 </p>
 
 ### 🧰 Tools
-<p align="left">
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img alt="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Wireshark_Logo.svg" width="40" height="40"/>
-  <img alt="Nmap" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Nmap-logo.svg" width="40" height="40"/>
-  <img alt="Metasploit" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Metasploit_logo.svg" width="40" height="40"/>
-  <img alt="Burp Suite" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Burp_Suite_Logo.svg" width="40" height="40"/>
-</p>
-
----
-
-## 🚀 Projects
-
-- **[Secure CI/CD Pipeline](https://github.com/soukainahn/secure-cicd)**  
-  Practice project for container security, automated build, and scanning.
-- **[AD Pentesting Lab](#)**  
-  Simulated Active Directory environment for learning attacks and defenses.
-- **[CTF Challenges Repo](#)**  
-  Collection of solved CTF challenges demonstrating problem-solving and exploitation skills.
+- Hydra, EDAppro, GDB, Metasploit, Burp Suite
 
 ---
 
@@ -55,8 +40,9 @@ I am a final-year Cybersecurity Engineering student passionate about **penetrati
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn URL]  
-- Email: youremail@example.com
+- LinkedIn: https://www.linkedin.com/in/soukaina-h-11b120299?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrS2f0IyuRXipZHunTqjVAQ%3D%3D  
+- Email: hananesoukaina245@gmail.com
+- blog: https://medium.com/@hnsoukaina8
 
 ---
 
