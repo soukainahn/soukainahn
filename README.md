@@ -8,16 +8,16 @@
     src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineering+Student;Pentester+%7C+Ethical+Hacker;CTF+Player+%7C+Reverse+Engineer;Always+Learning+%7C+Always+Hacking"
   />
 </p>
-
+## 🐍 Contribution Snak
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soukainahn/soukainahn/main/dist/snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 ---
 
 ## 🔐 About Me
 Final-year **Cybersecurity Engineering** student passionate about **pentesting, reverse engineering, CTFs**, and cloud security.  
 I love solving complex challenges, breaking things ethically, and helping grow the cybersecurity community.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/soukainahn/soukainahn/main/dist/snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ## 🛠 Skills
 
@@ -53,10 +53,6 @@ I love solving complex challenges, breaking things ethically, and helping grow t
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/soukainahn/soukainahn/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
